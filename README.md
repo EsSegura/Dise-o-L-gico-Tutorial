@@ -1,3 +1,6 @@
+# Desarrollador
+## Esteban Segura Garcia 2022129260
+
 # Nombre del proyecto
 ## Tutorial de diseño logico 
 
