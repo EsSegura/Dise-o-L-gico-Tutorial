@@ -110,24 +110,23 @@ Diagramas, texto explicativo...
 ## En este apartado se probarán las pruebas hechas solo en el vc:
 ## La siguiente imagen corresponde al constr, donde se puede ver las variables con sus respectivos nombres:
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/474c34a7-09f1-4c38-9457-1c8c46d4867b)
 
 ## En la siguiente imagen, se puede observar los datos modificados según video:
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/617d6039-5636-4a67-8187-9017e4ad521c)
 
 ## En las siguientes imagenes se muestran la consola con los comandos funcionando:
 
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/3fe64847-e385-4c28-9299-90945d2c88f3)
 
 ## La prueba de que funcionó el WV:
 
-![alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/9d782c89-54f6-4d87-b94c-a0f794fe1678)
 
 ## En la siguiente imagen se muestra el "make bitstream" funcionando, el "make load" tira error porque todavía no se prueba con una fpga:
 
-![alt text](image-4.png)
-
+![image](https://github.com/user-attachments/assets/d579fb14-1cd6-440d-bf88-a6dda2adcd71)
 
 ## 4. Consumo de recursos
 
