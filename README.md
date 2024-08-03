@@ -131,4 +131,11 @@ Diagramas, texto explicativo...
 ## 5. Problemas encontrados durante el proyecto
 ## El primer problema encontrado fue que no instalé un programa en el cual, no me permitía ejecutar los comandos "make", luego de  instalarlos, los pude ejecutar de manera correcta.
 
+## Apendice
+
+![image](https://github.com/user-attachments/assets/7d9e1a71-4347-4f1c-9d29-dda03fb1046e)
+
+## Estadisticas 
+
+![image](https://github.com/user-attachments/assets/66028093-e5ad-4b8b-86f7-cbe63a9915d6)
 
