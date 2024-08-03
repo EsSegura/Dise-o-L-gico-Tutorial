@@ -3,6 +3,8 @@
 
 ## 1. Abreviaturas y definiciones
 - **FPGA**: Field Programmable Gate Arrays
+- **clk**; Clock
+- **rst**; Restart
 
 ## 2. Referencias
 [0] David Harris y Sarah Harris. *Digital Design and Computer Architecture. RISC-V Edition.* Morgan Kaufmann, 2022. ISBN: 978-0-12-820064-3
@@ -96,13 +98,6 @@ module module_counter_tb;
 
 endmodule
 
-#### 2. Parámetros
-- Lista de parámetros
-
-#### 3. Entradas y salidas:
-- `entrada_i`: descripción de la entrada
-- `salida_o`: descripción de la salida
-
 #### 4. Criterios de diseño
 Diagramas, texto explicativo...
 
@@ -133,6 +128,4 @@ Diagramas, texto explicativo...
 ## 5. Problemas encontrados durante el proyecto
 ## El primer problema encontrado fue que no instalé un programa en el cual, no me permitía ejecutar los comandos "make", luego de  instalarlos, los pude ejecutar de manera correcta.
 
-## Apendices:
-### Apendice 1:
-texto, imágen, etc
+
